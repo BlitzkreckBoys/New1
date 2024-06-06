@@ -33,7 +33,7 @@ body{
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
 }
 .Prayer{
-    margin-right: 300PX;
+    margin-right: 1200PX;
 
     position: absolute;
     top: 10px;
@@ -41,7 +41,7 @@ body{
 }
 .Pray{
     
-    margin-right: 300PX;
+    margin-right: 1200PX;
     position: absolute;
     top: 25px;
     right: 20px;
@@ -50,13 +50,13 @@ body{
     color: aliceblue;
 }
 .date{
-    margin-left: 200PX;
+    margin-left: 1200PX;
     position: absolute;
     top: 10px;
     left: 10px;
 }
 .today{
-    margin-left: 200PX;
+    margin-left: 1200PX;
     position: absolute;
     top: 25px;
     left: 20px;
@@ -81,6 +81,7 @@ hr{
 }
 .col{
     float: left;
+    margin-top: 20px;
 }
 .r{
     margin-top: 100PX;
@@ -91,6 +92,7 @@ hr{
     background-color: white;
     display: inline-block;
     box-shadow: 1px 1px 4px 4px grey;
+    margin-top: 10px;
 }
 .h4{
     
@@ -98,10 +100,11 @@ hr{
     display: flex;
     justify-content: center;
     align-items: center;
-
+margin-top: 20px;
+margin-left: 2px;
 }
 .i{
-    width: 600px;
+    width: 680px;
     float: right;
 }
 .fl{
@@ -109,4 +112,113 @@ hr{
 }
 .lf{
     float: left;
+}
+.cols{
+    display: inline-block;
+}
+.fll{
+    width: 150px;
+    height: 250px;
+}
+.j{
+    width: 175px;
+    
+    
+    
+}
+.h{
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sam{
+   
+    width: 600px;
+    background-color: white;
+    margin-left: 45px;
+    box-shadow: 1px 1px 4px 4px grey;
+    margin-top: 30px;
+    display: inline-block;
+}
+.samm{
+      background-color: white;
+   
+    
+    margin-left: 30px;
+    box-shadow: 1px 1px 4px 4px grey;
+    margin-top: 10px;
+
+}
+.k{
+  width: 250px;  
+}
+.fll{
+    float: right;
+}
+.Trending{
+    color: aqua;
+    font-size:xx-large ;
+    margin-left: 35px;
+}
+.more{
+    margin-top: 150px;
+    color: aqua;
+    font-size:xx-large ;
+}
+.lfe{
+     
+   
+     display: inline-block;
+}
+.co{
+    
+    background-color: white;
+    display: inline-block;
+    box-shadow: 1px 1px 4px 4px grey;
+    margin-top: 10px;
+    height: 90%;
+    margin-left: 40px;
+    
+}
+.coo{
+    
+    background-color: white;
+    display: inline-block;
+    box-shadow: 1px 1px 4px 4px grey;
+    margin-top: 10px;
+    height: 90%;
+    margin-left: 40px;
+    display: inline-block;
+}
+.colf
+{
+   margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    background-color: white;
+    display: inline-block;
+    box-shadow: 1px 1px 4px 4px grey;
+    
+}
+.collf{
+    margin-left: 45px;
+    background-color: white;
+    display: inline-block;
+    box-shadow: 1px 1px 4px 4px grey;
+    margin-bottom: 185px;
+}
+.box{
+    display: inline-block;
+    box-shadow: 1px 1px 4px 4px grey;
+    width: 400px;
+    margin-left: 35px;
+
+}
+.m{
+    margin-left: 4px;
+}
+.foot{
+    background-color: grey;
 }
