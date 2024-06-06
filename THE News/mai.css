@@ -70,6 +70,7 @@ body{
 }
 hr{
     width: 1400px;
+    
 }
 .table{
     display: flex;
@@ -83,7 +84,29 @@ hr{
 }
 .r{
     margin-top: 100PX;
+    display: inline-block;
 }
 .coll{
+    margin-left: 20px;
+    background-color: white;
+    display: inline-block;
+    box-shadow: 1px 1px 4px 4px grey;
+}
+.h4{
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.i{
+    width: 600px;
+    float: right;
+}
+.fl{
+    float: right;
+}
+.lf{
     float: left;
 }
